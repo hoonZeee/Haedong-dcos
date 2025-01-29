@@ -1,6 +1,6 @@
 # 해동전자 오픈 퍼블릭 레포지토리
 
-![Project Logo](https://via.placeholder.com/800x400?text=Project+Image)  
+![Project Logo]([https://via.placeholder.com/800x400?text=Project+Image](https://github.com/hoonZeee/Haedong-dcos/blob/main/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202025-01-29%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2011.10.58.png))  
 
 ## 🛠 기술 스택
 
