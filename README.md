@@ -10,6 +10,6 @@
 ---
 
 ## 🚀 기술 스택
-![Tech Stack](https://raw.githubusercontent.com/사용자명/저장소명/main/images/tech.png)
+![Tech Stack](https://github.com/hoonZeee/Haedong-dcos/blob/main/haedongStack.png?raw=true)
 
 
