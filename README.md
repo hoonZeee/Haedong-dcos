@@ -1,4 +1,4 @@
-# HAEDONG
+![MainLogo](https://github.com/hoonZeee/Haedong-dcos/blob/main/mainlogo.png?raw=true)
 
 🔗 **홈페이지**: [hdae.kr](http://hdae.kr)
 
