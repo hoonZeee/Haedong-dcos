@@ -1,4 +1,4 @@
-# 🏢 HAEDONG
+# HAEDONG
 
 🔗 **홈페이지**: [hdae.kr](http://hdae.kr)
 
